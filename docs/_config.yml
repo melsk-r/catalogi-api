@@ -7,7 +7,7 @@ url: "http://localhost:4000"
 # Indien een 'url' voorradig dan wordt daarmee de 'href' gevuld en dient het path slechts om te bepalen welke link active is.
 # 'target: blank' zorgt er voor dat de link in een nieuw tabblad wordt geöpend.
 nav:
-  - title: API's voor zaakgericht werken
+  - title: Catalog API
     subnav:
       - title: Home
         path: /
@@ -25,10 +25,6 @@ nav:
 #        path: /doorontwikkeling/
 #      - title: Contact
 #        path: /contact/
-  - title: API's voor chaotisch werken
-    subnav:
-      - title: Home
-        path: /
 
 plugins:
   - jekyll-redirect-from
