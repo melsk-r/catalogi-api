@@ -1,5 +1,5 @@
-baseurl: "/catalog-api"
-apiname: "API's Zaak-catalogus"
+baseurl: "/gemma-zaken"
+apiname: "API's voor zaakgericht werken"
 url: "http://localhost:4000"
 # nav is t.b.v. generatie side-navigation menu.
 # Een 'title' zonder path of url genereert slechts een kopje.
@@ -7,7 +7,7 @@ url: "http://localhost:4000"
 # Indien een 'url' voorradig dan wordt daarmee de 'href' gevuld en dient het path slechts om te bepalen welke link active is.
 # 'target: blank' zorgt er voor dat de link in een nieuw tabblad wordt geöpend.
 nav:
-  - title: Zaak catalogus
+  - title: API's voor zaakgericht werken
     subnav:
       - title: Home
         path: /
@@ -32,7 +32,7 @@ plugins:
 
 remote_theme: VNG-Realisatie/jekyll-theme-vng-realisatie
 
-github: melsk-r/catalog-api
+github: VNG-Realisatie/gemma-zaken
 
 theme: jekyll-theme-time-machine
 
