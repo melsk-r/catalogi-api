@@ -25,6 +25,10 @@ nav:
 #        path: /doorontwikkeling/
 #      - title: Contact
 #        path: /contact/
+  - title: API's voor chaotisch werken
+    subnav:
+      - title: Home
+        path: /
 
 plugins:
   - jekyll-redirect-from
