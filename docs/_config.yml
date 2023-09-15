@@ -11,20 +11,20 @@ nav:
     subnav:
       - title: Home
         path: /
-      - title: Productvisie
-        path: /productvisie/
-      - title: Standaard
-        path: /standaard/
-      - title: Ontwikkelaars
-        path: /ontwikkelaars/
-      - title: Thema's
-        path: /themas/
-      - title: Beheer
-        path: /beheer/
-      - title: Doorontwikkeling
-        path: /doorontwikkeling/
-      - title: Contact
-        path: /contact/
+#      - title: Productvisie
+#        path: /productvisie/
+#      - title: Standaard
+#        path: /standaard/
+#      - title: Ontwikkelaars
+#        path: /ontwikkelaars/
+#      - title: Thema's
+#        path: /themas/
+#      - title: Beheer
+#        path: /beheer/
+#      - title: Doorontwikkeling
+#        path: /doorontwikkeling/
+#      - title: Contact
+#        path: /contact/
 
 plugins:
   - jekyll-redirect-from
