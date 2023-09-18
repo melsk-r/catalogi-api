@@ -29,18 +29,18 @@ nav:
         path: /redoc-1.2.0
       - title: Swagger
         path: /swagger-ui-1.2.0
-  - title: Specificaties 1.1.0 (Deprecated)
-    subnav:
-      - title: Redoc
-        path: /redoc-1.1.0
-      - title: Swagger
-        path: /swagger-ui-1.1.0
-  - title: Specificaties 1.0.0 (Deprecated)
-    subnav:
-      - title: Redoc
-        path: /redoc-1.0.0
-      - title: Swagger
-        path: /swagger-ui-1.0.0
+#  - title: Specificaties 1.1.0 (Deprecated)
+#    subnav:
+#      - title: Redoc
+#        path: /redoc-1.1.0
+#      - title: Swagger
+#        path: /swagger-ui-1.1.0
+#  - title: Specificaties 1.0.0 (Deprecated)
+#    subnav:
+#      - title: Redoc
+#        path: /redoc-1.0.0
+#      - title: Swagger
+#        path: /swagger-ui-1.0.0
 
 plugins:
   - jekyll-redirect-from
