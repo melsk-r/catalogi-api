@@ -7,24 +7,32 @@ url: "http://localhost:4000"
 # Indien een 'url' voorradig dan wordt daarmee de 'href' gevuld en dient het path slechts om te bepalen welke link active is.
 # 'target: blank' zorgt er voor dat de link in een nieuw tabblad wordt geöpend.
 nav:
-  - title: Zaak catalogus
+  - title: Zaak catalogus 1.3.0 (Live)
     subnav:
       - title: Home
         path: /
-#      - title: Productvisie
-#        path: /productvisie/
-#      - title: Standaard
-#        path: /standaard/
-#      - title: Ontwikkelaars
-#        path: /ontwikkelaars/
-#      - title: Thema's
-#        path: /themas/
-#      - title: Beheer
-#        path: /beheer/
-#      - title: Doorontwikkeling
-#        path: /doorontwikkeling/
-#      - title: Contact
-#        path: /contact/
+      - title: Redoc
+        path: /redoc-1.3.0
+      - title: Swagger
+        path: /swagger-ui-1.3.0
+  - title: Zaak catalogus 1.2.0 (Deprecated)
+    subnav:
+      - title: Redoc
+        path: /redoc-1.2.0
+      - title: Swagger
+        path: /swagger-ui-1.2.0
+  - title: Zaak catalogus 1.1.0 (Deprecated)
+    subnav:
+      - title: Redoc
+        path: /redoc-1.1.0
+      - title: Swagger
+        path: /swagger-ui-1.1.0
+  - title: Zaak catalogus 1.0.0 (Deprecated)
+    subnav:
+      - title: Redoc
+        path: /redoc-1.0.0
+      - title: Swagger
+        path: /swagger-ui-1.0.0
 
 plugins:
   - jekyll-redirect-from
