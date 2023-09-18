@@ -12,15 +12,15 @@ nav:
       - title: Home
         path: /
       - title: Getting started
-        path: /
+        path: /getting-started
       - title: User stories
-        path: /
+        path: /user-stories-1.3
       - title: Redoc
         path: /redoc-1.3.0
       - title: Swagger
         path: /swagger-ui-1.3.0
       - title: Features
-        path: /
+        path: /features
   - title: Zaak catalogus 1.2.0 (Deprecated)
     subnav:
       - title: Redoc
