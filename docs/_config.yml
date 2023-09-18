@@ -11,10 +11,16 @@ nav:
     subnav:
       - title: Home
         path: /
+      - title: Getting started
+        path: /
+      - title: User stories
+        path: /
       - title: Redoc
         path: /redoc-1.3.0
       - title: Swagger
         path: /swagger-ui-1.3.0
+      - title: Features
+        path: /
   - title: Zaak catalogus 1.2.0 (Deprecated)
     subnav:
       - title: Redoc
