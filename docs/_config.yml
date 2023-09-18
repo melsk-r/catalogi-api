@@ -30,9 +30,9 @@ plugins:
   - jekyll-redirect-from
   - jekyll-remote-theme
 
-remote_theme: melsk-r/jekyll-theme-vng-realisatie
+remote_theme: melsk-r/new-jekyll-theme
 
-github: melsk-r/catalog-api
+github: VNG-Realisatie/gemma-zaken
 
 theme: jekyll-theme-time-machine
 
