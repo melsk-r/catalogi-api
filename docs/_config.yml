@@ -32,7 +32,7 @@ plugins:
 
 remote_theme: melsk-r/new-jekyll-theme
 
-github: VNG-Realisatie/gemma-zaken
+github: melsk-r/catalog-api
 
 theme: jekyll-theme-time-machine
 
