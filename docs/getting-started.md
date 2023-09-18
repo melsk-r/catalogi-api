@@ -4,4 +4,4 @@ title: Getting started
 ---
 # Getting started
 
-Beschrijft hoe een ontwikkelaar de API kan beginnen te gebruiken.
+Beschrijft hoe een ontwikkelaar kan starten met het implementeren van de API.
