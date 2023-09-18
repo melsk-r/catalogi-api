@@ -10,7 +10,7 @@ nav:
   - title: Catalogi API
     subnav:
       - title: Main
-        path: /
+        path: /main
   - title: Specificaties 1.3.0 (Live)
     subnav:
       - title: Getting started
